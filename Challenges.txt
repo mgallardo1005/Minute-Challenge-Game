@@ -47,11 +47,22 @@ Physical [
 "Hop on your right leg for one minute",
 "Jog on the spot for a minute",
 "Do 5 backwards rolls",
+"Make a folded paper airplane that can fly across the room and hit the wall without hitting the floor first",
+"Within arms reach of a wall, spin around 10 times and then touch the opposite wall without falling down",
 ];
 
 Mental [
+"Name 10 films with a title beginning with the letter T",
+
 ]
 
 Social [
-"Choose a partner. One of you has to throw 5 snacks into the others mouth from at least 5 feet away in one minute. You each get a point if successful",
-"Choose a partner. Your partner says a word of at least 2 syllabols and you must rhyme that word. You each get a point if successful",
+"Your partner has to throw 10 snacks into your mouth from at least 5 feet away in one minute",
+"Your partner must say a word of at least 2 syllabols and you must rhyme that word. Finish 10 combinations or rhyming words to complete this challenge",
+"You or your partner must do 1 push up with the other sitting on your back. No part of the sitting partner can touch the ground while challenge is being completed",
+"You and your partner must make eye contact for one minute without laughing. Blinking is acceptable",
+"Name an animal beginning with each letter in your partners name",
+"Find 5 things you have in common with your partner. Family cannot be one of them (ie. being sisters does not count!)",
+"Write your partners full first name 5 times with a pen without using your thumbs",
+"Without saying, spelling, or rhyming the word, name things that are a certain color and your partner must guess the color. 10 colors completes this challenge",
+"You and your partner must make all letters of the alphabet using only your body parts",

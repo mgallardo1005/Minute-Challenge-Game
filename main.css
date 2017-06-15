@@ -1,0 +1,87 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e2/45/01/e24501bf7ba9a94d98fef7c2228dc9b2.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% 100%;
+}
+
+.title {
+  font-size: 120px;
+  text-align: center;
+  font-family: Russo One;
+  color: blue;
+}
+
+.ages {
+  font-size: 60px;
+  text-align: center;
+  font-family: Permanent Marker;
+  color: blue;
+}
+
+.start {
+  width: 200px;
+  height: 70px;
+  border-radius: 10px;
+  border: 2px, solid, blue;
+  background-color: blue;
+  font-size: 24px;
+  float: left;
+  margin-left: 365px;
+  margin-top: 75px;
+  outline: none;
+  box-shadow: 0 5px #999;
+  cursor: pointer;
+}
+
+.start:active {
+  box-shadow: 0 2px #999;
+  transform: translateY(3px);
+  outline: none;
+}
+
+.rules {
+  width: 200px;
+  height: 70px;
+  border-radius: 10px;
+  border: 2px, solid, blue;
+  background-color: blue;
+  font-size: 24px;
+  float: left;
+  margin-top: 75px;
+  outline: none;
+  box-shadow: 0 5px #999;
+  cursor: pointer;
+}
+
+.rules:active {
+  box-shadow: 0 2px #999;
+  transform: translateY(3px);
+  outline: none;
+}
+
+.catagories {
+  width: 200px;
+  height: 70px;
+  border-radius: 10px;
+  border: 2px, solid, blue;
+  background-color: blue;
+  font-size: 24px;
+  float: left;
+  margin-top: 75px;
+  outline: none;
+  box-shadow: 0 5px #999;
+  cursor: pointer;
+}
+
+.catagories:active {
+  box-shadow: 0 2px #999;
+  transform: translateY(3px);
+  outline: none;
+}
+
+.footer {
+  background-color: #ccccb3;
+  border-radius: 5px;
+  margin-top: 230px;
+}
